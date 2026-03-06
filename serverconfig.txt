@@ -1,0 +1,11 @@
+world=Viltrum.wld
+worldname=Viltrum
+difficulty=3
+maxplayers=4
+port=7777
+motd=Stand ready for my arrival, worm.
+autocreate=0
+npcstream=15
+priority=0
+secure=1
+upnp=0
